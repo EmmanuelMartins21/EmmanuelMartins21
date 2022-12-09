@@ -1,6 +1,6 @@
 <h1 align="center"> Eai pessoal 😎! </h1>
 
- <h3> Eu sou o Emmanuel, atualmente graduando em Analise e Desenvolvimento de Sistemas, entusiasta de tecnologia atuando no mercado a um pouco mais de um ano! Estou em busca de me aperfeiçoar para me tornar um desenvolvedor  Back-End/Mobile.</h3>
+ <h3> Eu sou o Emmanuel, atualmente graduando em Analise e Desenvolvimento de Sistemas, entusiasta de tecnologia atuando no mercado a um pouco mais de um ano! Estou em busca de me aperfeiçoar para me tornar um desenvolvedor Back-End/Mobile.</h3>
  <br>
  
 <div align="center">
