@@ -1,7 +1,7 @@
 <h1 align="center"> Eai pessoal 😎! </h1>
 
  <h3> Eu sou o Emmanuel, atualmente graduando em Analise e Desenvolvimento de Sistemas, entusiasta de tecnologia atuando no mercado a um pouco mais de um ano! Estou em busca de me aperfeiçoar para me tornar um desenvolvedor Back-End/Mobile.</h3>
- <br>
+<br>
  
 <div align="center">
 
@@ -15,8 +15,8 @@
 ## Meu trabalho aqui no GitHub!
  <div>
   <a href="https://github.com/EmmanuelMartins21">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelMartins21&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMartins21&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelMartins21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMartins21&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="center"><br>
