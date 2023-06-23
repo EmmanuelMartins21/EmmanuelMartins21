@@ -1,6 +1,6 @@
 <h1 align="center"> Eai pessoal 😎! </h1>
 
- <h3> Eu sou o Emmanuel, atualmente graduando em Analise e Desenvolvimento de Sistemas, entusiasta de tecnologia atuando no mercado a um pouco mais de um ano! Estou em busca de me aperfeiçoar para me tornar um desenvolvedor Back-End/Mobile.</h3>
+ <h3> Eu sou Emmanuel, um graduando atualmente estudando Análise e Desenvolvimento de Sistemas. Sou um entusiasta de tecnologia e estou ativo no mercado há pouco mais de um ano. Meu objetivo é aprimorar minhas habilidades para me tornar um desenvolvedor Back-End/Mobile. Estou sempre buscando oportunidades para aprender e crescer nesta área emocionante e em constante evolução.</h3>
 <br>
  
 <div align="center">
@@ -41,10 +41,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="sql" height="32" width="42" src="https://cdn.icon-icons.com/icons2/9/PNG/128/sql_racer_gamedatabase_sql_1526.png">
-  <img align="center" alt="xamarin" height="32" width="42" src="https://img.icons8.com/color/344/xamarin.png">
-  <img align="center" alt="android" height="32" width="42" src="https://img.icons8.com/color/344/android-os.png">
- 
 </div>
   
   ##
