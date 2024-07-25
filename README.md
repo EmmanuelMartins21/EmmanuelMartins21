@@ -1,6 +1,6 @@
 <h1 align="center"> Eai pessoal 😎! </h1>
 
- <h3> Eu sou Emmanuel, um graduando atualmente estudando Análise e Desenvolvimento de Sistemas. Sou um entusiasta de tecnologia e estou ativo no mercado há pouco mais de um ano. Meu objetivo é aprimorar minhas habilidades para me tornar um desenvolvedor Back-End/Mobile. Estou sempre buscando oportunidades para aprender e crescer nesta área emocionante e em constante evolução.</h3>
+ <h3> Eu sou Emmanuel, desenvolvedor de software com 3 anos de experiência. Nesta função, utilizo as tecnologias C#, .NET, Xamarin, ASP.NET Web API, SQLite, MongoDB e Oracle para desenvolver melhorias operacionais e novos projetos, incluindo integrações de dados e sistemas. Além disso, participo de um ambiente ágil, seguindo metodologias ágeis e utilizando Azure DevOps para gerenciamento eficiente de projetos. Estou sempre buscando oportunidades para aprender e crescer nesta área emocionante e em constante evolução.</h3>
 <br>
  
 <div align="center">
