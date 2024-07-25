@@ -20,7 +20,7 @@
 </div>
 
 <div style="center"><br>
-  <img alt="avatar" align='right' width="240px" src="/bighead.svg">
+  <img alt="avatar" align='right' width="220px" src="/bighead.svg">
 </div>
 </br>
 
