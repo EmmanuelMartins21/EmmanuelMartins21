@@ -34,15 +34,5 @@
   <img align="center" alt="xamarin" height="32" width="42" src="https://img.icons8.com/color/344/xamarin.png">
 </div>
 </br>
-
  
- ## Tecnologias que estou estudando!
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
   ##
-
- 
