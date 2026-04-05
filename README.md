@@ -30,7 +30,7 @@ Eu sou Emmanuel Martins, desenvolvedor .NET com mais de 4 anos de experiência. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelMartins21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelMartins21&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMartins21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
